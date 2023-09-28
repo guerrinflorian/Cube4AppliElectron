@@ -1,0 +1,18 @@
+{
+  "name": "cube4appli",
+  "version": "1.0.0",
+  "description": "appli du cube4 du cesi",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "electron ."
+  },
+  "author": "fndm",
+  "license": "ISC",
+  "devDependencies": {
+    "electron": "^26.2.3"
+  },
+  "dependencies": {
+    "tailwindcss": "^3.3.3"
+  }
+}
